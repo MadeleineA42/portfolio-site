@@ -19,3 +19,16 @@ h1  {
     margin: 0;
     color: #fef9ff;
 }
+/* styling for nav */
+nav ul  {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: end;
+}
+
+nav ul li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 20px;
+}

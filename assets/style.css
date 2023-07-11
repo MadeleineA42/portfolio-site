@@ -61,4 +61,14 @@ h2  {
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: chocolate;
+    margin-top: 0;
+}
+p   {
+    margin: 10px;
+}
+
+footer  {
+    color: pink;
+    text-align: center;
+
 }

@@ -53,4 +53,12 @@ article {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
     color: #946f9b;
+    padding: 10px;
+    /* margin-bottom: 10px;
+    border-radius: 10px; */
+}
+h2  {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: chocolate;
 }

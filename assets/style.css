@@ -71,3 +71,14 @@ footer  {
     color: #fcb9b2;
     text-align: center;
 }
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

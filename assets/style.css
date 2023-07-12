@@ -18,6 +18,7 @@ h1  {
     font-size: 30px;
     margin: 0;
     color: #fef9ff;
+    border: 1px solid black;
 }
 /* styling for nav */
 nav ul  {

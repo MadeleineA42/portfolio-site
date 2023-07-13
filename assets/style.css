@@ -18,7 +18,7 @@ h1  {
     font-size: 30px;
     margin: 0;
     color: #fef9ff;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 /* styling for nav */
 nav ul  {
@@ -72,11 +72,11 @@ footer  {
     color: #acd8aa;
     text-align: center;
 }
-.container2 {
+/* .container2 {
   position: relative;
   text-align: center;
   color: white;
-}
+} */
 /* .centered {
     position: absolute;
     top: 50%;

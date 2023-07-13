@@ -6,3 +6,5 @@ When looking at the HTML and CSS you should see that they both follow semantic s
 
 
 <img src="assets/images/Screen Shot 2023-07-10 at 12.52.20 PM.png" alt="screenshot of the mock up of a portfolio website">
+
+Link to deployed site: https://madeleinea42.github.io/portfolio-site/

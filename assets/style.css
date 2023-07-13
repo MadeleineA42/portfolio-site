@@ -82,3 +82,20 @@ footer  {
   .container3   {
     padding: 10px;
   }
+
+.work-space   {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.work-box {
+    border: 3px solid black;
+    background-color: black;
+    display: flex;
+    align-items: flex-end;
+}
+
+work-box:first-child    {
+    max-height: 200px;
+    flex-basis: 100%;
+}

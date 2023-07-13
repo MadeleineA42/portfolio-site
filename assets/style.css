@@ -70,7 +70,7 @@ p   {
     margin: 10px;
     border: 3px solid black;
 }
-.work-box {
+/* .work-box {
     border: 3px solid rgb(218, 73, 73);
     background-color: black;
     min-height: 150px;
@@ -84,14 +84,14 @@ p   {
 .work-box:first-child    {
     max-height: 100px;
     flex-basis: 100%;
-}
+} */
 
 footer  {
     color: #acd8aa;
     text-align: center;
 }
 
-/* .container2, .container3    {
+.container2, .container3    {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -99,11 +99,11 @@ footer  {
 
 .container3   {
     padding: 10px;
-  } */
+  }
 
-.work-space   {
+/* .work-space   {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-}
+} */
 

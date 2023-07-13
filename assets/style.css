@@ -17,10 +17,9 @@ header {
 
 h1 {
     font-family: cursive;
-    font-size: 40px;
+    font-size: 60px;
     margin: 0;
     color: #f10d96;
-    /* border: 1px solid black; */
 }
 
 /* styling for nav */
@@ -54,8 +53,6 @@ article {
     color: rgb(243, 70, 182);
     padding: 10px;
     border: 3px solid #f49fd6;
-    /* margin-bottom: 10px;
-    border-radius: 10px; */
 }
 
 h2 {
@@ -67,7 +64,6 @@ h2 {
 
 p {
     margin: 20px;
-    /* border: 3px solid #f49fd6; */
 }
 
 .container2,

@@ -36,7 +36,7 @@ nav ul li {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-right: 50px;
 }
-
+/* styling for list items */
 nav ul li a {
     font-size: 20px;
     color: #f10d96;
@@ -63,7 +63,7 @@ h2 {
     color: #f10d96;
     margin-top: 0;
 }
-
+/* styling for the headers in each section */
 p {
     margin: 20px;
 }
@@ -83,3 +83,4 @@ footer {
     color: #f10d96;
     text-align: center;
 }
+/* styling for footer */

@@ -73,8 +73,12 @@ footer  {
     text-align: center;
 }
 
-.container2    {
+.container2, .container3    {
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+
+  .container3   {
+    padding: 10px;
   }

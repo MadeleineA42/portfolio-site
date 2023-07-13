@@ -1,24 +1,24 @@
 /* body themes */
 body {
-    background-color: #fef9ff;
+    background-color: white;
     margin: 0;
     padding: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     flex-direction: column
 }
 
 /* Header themes */
 header {
-    background-color: #acd8aa;
+    background-color: #f49fd6;
     padding: 10px;
     text-align: left;
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 40px;
     margin: 0;
-    color: #fef9ff;
+    color: #f10d96;
     /* border: 1px solid black; */
 }
 
@@ -38,7 +38,7 @@ nav ul li {
 
 nav ul li a {
     font-size: 20px;
-    color: #fef9ff;
+    color: #f10d96;
     font-weight: bold;
 }
 
@@ -57,9 +57,9 @@ section {
 article {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
-    color: #86608e;
+    color: black;
     padding: 10px;
-    border: 3px solid black;
+    border: 3px solid #f49fd6;
     /* margin-bottom: 10px;
     border-radius: 10px; */
 }
@@ -67,13 +67,13 @@ article {
 h2 {
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(55, 117, 175);
+    color: #f10d96;
     margin-top: 0;
 }
 
 p {
-    margin: 10px;
-    border: 3px solid black;
+    margin: 20px;
+    /* border: 3px solid #f49fd6; */
 }
 
 .container2,
@@ -88,6 +88,6 @@ p {
 }
 
 footer {
-    color: #acd8aa;
+    color: #f10d96;
     text-align: center;
 }

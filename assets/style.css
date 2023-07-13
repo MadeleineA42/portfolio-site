@@ -10,7 +10,7 @@ body {
 
 /* Header themes */
 header {
-    background-color: #f49fd6;
+    background-color: #f4cce6;
     padding: 10px;
     text-align: left;
 }
@@ -43,13 +43,6 @@ nav ul li a {
     font-weight: bold;
 }
 
-/* main styles */
-main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 20px;
-}
 
 section {
     margin-bottom: 20px;
@@ -58,7 +51,7 @@ section {
 article {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
-    color: black;
+    color: rgb(243, 70, 182);
     padding: 10px;
     border: 3px solid #f49fd6;
     /* margin-bottom: 10px;

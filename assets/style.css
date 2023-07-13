@@ -79,7 +79,7 @@ footer  {
     align-items: center;
   }
 
-  .container3   {
+.container3   {
     padding: 10px;
   }
 
@@ -89,13 +89,22 @@ footer  {
     justify-content: center;
 }
 .work-box {
-    border: 3px solid black;
+    border: 3px solid rgb(218, 73, 73);
     background-color: black;
+    min-height: 150px;
+    max-height: 150px;
+    flex-basis: calc(50% - 1em);
     display: flex;
     align-items: flex-end;
+    margin: 10px;
 }
 
-work-box:first-child    {
-    max-height: 200px;
+.work-box:first-child    {
+    max-height: 100px;
     flex-basis: 100%;
+}
+article>div    {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
 }

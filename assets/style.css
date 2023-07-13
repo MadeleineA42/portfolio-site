@@ -19,6 +19,7 @@ h1 {
     font-family: cursive;
     font-size: 60px;
     margin: 0;
+    margin-left: 50px;
     color: #f10d96;
 }
 
@@ -33,7 +34,7 @@ nav ul {
 
 nav ul li {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-right: 20px;
+    margin-right: 50px;
 }
 
 nav ul li a {
@@ -57,7 +58,8 @@ article {
 
 h2 {
     font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #f10d96;
     margin-top: 0;
 }
